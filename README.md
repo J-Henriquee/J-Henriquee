@@ -12,13 +12,8 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-![Nean's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Henriquee&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Henriquee&layout=compact&theme=dark)
-
----
-* 💼 **LinkedIn:** [José Henrique](https://www.linkedin.com/in/jose-henrique-nean?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9bgt2q1MS7C%2FBaF%2B3Fp9hQ%3D%3D)
+* 💼 **LinkedIn:** [José Henrique](https://www.linkedin.com/in/jos%C3%A9-henrique-do-esp%C3%ADrito-santo-0465042a6/)
+* 📂 **Portfólio:** Confira meus projetos fixados abaixo 👇
