@@ -16,8 +16,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Nean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula)
+![Nean's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Henriquee&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Henriquee&layout=compact&theme=dracula)
 
 ---
 * 💼 **LinkedIn:** [José Henrique](https://www.linkedin.com/in/jose-henrique-nean?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9bgt2q1MS7C%2FBaF%2B3Fp9hQ%3D%3D)
