@@ -1,7 +1,7 @@
 ### Olá, eu sou o José Henrique (Nean)! 👋
 
-🎓 Estudante de **Engenharia da Computação** na UFBA.
-🚀 Co-Fundador da **LIAO** (Liga Acadêmica de Inteligência Artificial e Otimização).
+🎓 Estudante de **Ciência da Computação** na UFBA.
+🚀 Co-Fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e Trainee na **InfoJúnior**.
 💻 Focado em **Engenharia de Dados**, **Back-end** e construção de pipelines (ETL).
 
 ### 🛠️ Tech Stack & Ferramentas
@@ -16,9 +16,7 @@
 ### 📌 Portfólio em Destaque
 
 🔗 **[Data Engineering Portfolio](https://github.com/J-Henriquee/Data-Engineering-Portfolio)**: O meu repositório principal com projetos práticos de ponta a ponta:
-* 🔒 **Pipeline Seguro (LGPD):** Anonimização e prevenção de *Data Leakage* em megadatasets.
-* 📊 **ETL com SQLite:** Ingestão otimizada (executemany + PRAGMAs) e queries analíticas.
-* 🌤️ **Ingestão de APIs:** Tratamento de dados climáticos e persistência em Parquet particionado.
+* ⛩️ **Pipeline Jikan API (MyAnimeList):** ETL end-to-end com extração de dados via API REST, tratamento de paginação, limpeza de dados nulos/duplicados com Pandas e orquestração autônoma no Linux (Cron).
 
 ---
 📫 **Contato:** [LinkedIn](https://linkedin.com/in/jose-henrique-nean)
