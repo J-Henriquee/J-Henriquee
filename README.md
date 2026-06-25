@@ -18,5 +18,9 @@
 🔗 **[Data Engineering Portfolio](https://github.com/J-Henriquee/Data-Engineering-Portfolio)**: O meu repositório principal com projetos práticos de ponta a ponta:
 * ⛩️ **Pipeline Jikan API (MyAnimeList):** ETL end-to-end com extração de dados via API REST, tratamento de paginação, limpeza de dados nulos/duplicados com Pandas e orquestração autônoma no Linux (Cron).
 
+### 🧠 Algoritmos & Lógica
+⚡ **Programação Competitiva:** Foco em C++ e resolução de problemas complexos ([Beecrowd](https://www.beecrowd.com.br/), [USACO](http://www.usaco.org/)).
+🔗 [Competitive Programming](https://github.com/J-Henriquee/Competitive-Programming)
+
 ---
 📫 **Contato:** [LinkedIn](https://linkedin.com/in/jose-henrique-nean)
