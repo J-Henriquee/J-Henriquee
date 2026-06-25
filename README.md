@@ -1,6 +1,6 @@
 ### Olá, eu sou o José Henrique (Nean)! 👋
 
-🎓 Estudante de **Ciência da Computação** na UFBA.
+🎓 Estudante de **Engenharia da Computação** na UFBA.
 🚀 Co-Fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e Trainee na **InfoJúnior**.
 💻 Focado em **Engenharia de Dados**, **Back-end** e construção de pipelines (ETL).
 
