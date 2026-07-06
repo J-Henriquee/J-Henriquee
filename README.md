@@ -1,4 +1,4 @@
-> **Own it.**
+> Own it.
 
 ### Olá, eu sou o José Henrique (Nean)! 👋
 
@@ -7,11 +7,13 @@
 💻 Focado em **Engenharia de Dados**, **Back-end** e construção de pipelines (ETL/ELT).
 
 ### 🛠️ Tech Stack & Ferramentas
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![Pandas](https://shields.io)
-![Linux](https://shields.io)
-![Git](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="SQL" />
+  <img src="https://shields.io" alt="Pandas" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Git" />
+</p>
 
 ---
 
