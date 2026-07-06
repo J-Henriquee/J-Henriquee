@@ -1,4 +1,7 @@
-> Own it.
+<p align="center"><em>"Own it."</em></p>
+<hr>
+
+### Olá, eu sou o José Henrique (Nean)! 👋
 
 ### Olá, eu sou o José Henrique (Nean)! 👋
 
