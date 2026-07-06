@@ -1,3 +1,5 @@
+> **Own it.**
+
 ### Olá, eu sou o José Henrique (Nean)! 👋
 
 🎓 Estudante de **Engenharia da Computação** na UFBA.
@@ -5,23 +7,23 @@
 💻 Focado em **Engenharia de Dados**, **Back-end** e construção de pipelines (ETL/ELT).
 
 ### 🛠️ Tech Stack & Ferramentas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![Pandas](https://shields.io)
+![Linux](https://shields.io)
+![Git](https://shields.io)
 
 ---
 
 ### 📌 Portfólio em Destaque
 
-🔗 **[Data Engineering Portfolio](https://github.com/J-Henriquee/Data-Engineering-Portfolio)**: O meu repositório principal com projetos práticos de ponta a ponta:
+🔗 **[Data Engineering Portfolio](https://github.com)**: O meu repositório principal com projetos práticos de ponta a ponta:
 * ⛩️ **Pipeline Jikan API (MyAnimeList):** ETL end-to-end com extração de dados via API REST, tratamento de paginação, limpeza de dados nulos/duplicados com Pandas e orquestração autônoma no Linux (Cron).
 
 ### 🧠 Algoritmos & Lógica avançada
 
-⚡ **Programação Competitiva:** Foco em C++ e resolução de problemas complexos ([Beecrowd](https://www.beecrowd.com.br/), [USACO](http://www.usaco.org/)). Uso essa base sólida de algoritmos estruturados para otimizar o processamento e a performance de grandes volumes de dados.
-🔗 **[Competitive Programming](https://github.com/J-Henriquee/Competitive-Programming)**
+⚡ **Programação Competitiva:** Foco em C++ e resolução de problemas complexos ([Beecrowd](https://beecrowd.com.br), [USACO](http://usaco.org)). Uso essa base sólida de algoritmos estruturados para otimizar o processamento e a performance de grandes volumes de dados.
+🔗 **[Competitive Programming](https://github.com)**
 
 ---
-📫 **Contato:** [LinkedIn](https://linkedin.com/in/jose-henrique-nean)
+📫 **Contato:** [LinkedIn](https://linkedin.com)
