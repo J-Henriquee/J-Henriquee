@@ -1,7 +1,7 @@
 <p align="center"><em>"Own it."</em></p>
 <hr>
 
-### Olá, eu sou o José Henrique (Nean)! 👋
+### Olá, eu sou o José Henrique (Neean)! 👋
 
 
 🎓 Estudante de **Engenharia da Computação** na UFBA. 🚀 Co-Fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e Trainee na **InfoJúnior**. 💻 Focado em **Engenharia de Dados**, **Back-end** e construção de pipelines (ETL/ELT).
