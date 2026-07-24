@@ -1,10 +1,9 @@
 <p align="center"><em>"Own it."</em></p>
 <hr>
 
-### Olá, eu sou o José Henrique (Neean)! 👋
+### Olá, eu sou o José Henrique (Nean)! 👋
 
-
-🎓 Estudante de **Engenharia da Computação** na UFBA. 🚀 Co-Fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e Trainee na **InfoJúnior**. 💻 Focado em **Engenharia de Dados**, **Back-end** e construção de pipelines (ETL/ELT).
+🎓 Estudante de **Engenharia da Computação** na UFBA. 🚀 Co-Fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e Trainee na **InfoJúnior**. 💻 Focado em **Engenharia de Dados**, **Análise de Dados** e construção de pipelines (ETL/ELT).
 
 ### 🛠️ Tech Stack & Ferramentas
 
@@ -20,7 +19,9 @@
 
 🔗 **Data Engineering Portfolio**: O meu repositório principal com projetos práticos de ponta a ponta:
 
-* ⛩️ **Pipeline Jikan API (MyAnimeList):** ETL end-to-end com extração de dados via API REST, tratamento de paginação, limpeza de dados nulos/duplicados com Pandas e orquestração autônoma no Linux (Cron).
+* 🏆 **Pipeline Copa do Mundo 2026:** ETL completo que combina bases históricas em CSV com dados ao vivo via API (`football-data.org`). Implementação de modelagem dimensional (Star Schema) e persistência de dados relacional na nuvem com PostgreSQL (Neon.tech), consumidos por um dashboard interativo no Streamlit.
+
+* ⛩️ **Pipeline Jikan API:** ETL end-to-end com extração de dados via API REST, tratamento de paginação, limpeza de dados nulos/duplicados com Pandas e orquestração autônoma no Linux (Cron).
 
 ### 🧠 Algoritmos & Lógica avançada
 
