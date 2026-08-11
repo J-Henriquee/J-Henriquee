@@ -1,15 +1,18 @@
 <p align="center"><em>"Own it."</em></p>
 <hr>
 
-### Olá, eu sou o José Henrique (Neean)! 👋
+### Olá, eu sou o Nean (José Henrique)! 👋
 
-🎓 Estudante de **Engenharia da Computação** na UFBA. 🚀 Co-Fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e Trainee na **InfoJúnior**. 💻 Focado em **Engenharia de Dados**, **Análise de Dados** e construção de pipelines (ETL/ELT).
+🎓 Estudante de **Engenharia da Computação** na UFBA. 🚀 Co-Fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e atuante na estruturação técnica de eventos acadêmicos (como o BaIA Hackathon). 💻 Focado em **Engenharia de Dados**, **Análise de Dados** e construção de pipelines escaláveis em Cloud.
 
 ### 🛠️ Tech Stack & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -17,15 +20,15 @@
 
 ### 📌 Portfólio em Destaque
 
-🔗 **Data Engineering Portfolio**: O meu repositório principal com projetos práticos de ponta a ponta:
+🔗 **Data Engineering Portfolio**: Meu repositório central com projetos práticos focados em todo o ciclo de vida do dado.
 
-* 🏆 **Pipeline Copa do Mundo 2026:** ETL completo que combina bases históricas em CSV com dados ao vivo via API (`football-data.org`). Implementação de modelagem dimensional (Star Schema) e persistência de dados relacional na nuvem com PostgreSQL (Neon.tech), consumidos por um dashboard interativo no Streamlit.
+* 🛒 **[E-commerce Olist AWS Pipeline](https://github.com/J-Henriquee/pipeline-olist):** Construção de um Data Lakehouse na nuvem. Ingestão de dados brutos no Amazon S3 via `boto3`, processamento distribuído da camada Bronze para Silver utilizando **PySpark**, e modelagem dimensional (Star Schema) na camada Gold usando comandos SQL nativos no **Amazon Redshift Serverless**.
 
-* ⛩️ **Pipeline Jikan API:** ETL end-to-end com extração de dados via API REST, tratamento de paginação, limpeza de dados nulos/duplicados com Pandas e orquestração autônoma no Linux (Cron).
+* ⚽ **[Pipeline Copa do Mundo: Modelagem e ETL](https://github.com/J-Henriquee/pipeline-copa):** Pipeline ETL estruturado com constraints relacionais no PostgreSQL. Foco em modelagem Star Schema, limpeza de dados com Pandas, tratamento rigoroso de violações de chaves (Unique/NotNull) e carga automatizada no banco de dados.
 
-### 🧠 Algoritmos & Lógica avançada
+### 🧠 Algoritmos & Lógica Avançada
 
-⚡ **Programação Competitiva:** Foco em C++ e resolução de problemas complexos (Beecrowd, USACO). Uso essa base sólida de algoritmos estruturados para otimizar o processamento e a performance de grandes volumes de dados. 🔗 Competitive Programming
+⚡ **Programação Competitiva:** Foco em C/C++ e resolução de problemas complexos (formação CS50, Beecrowd, USACO). Uso essa base sólida de algoritmos estruturados para garantir eficiência no processamento e performance em grandes volumes de dados. 🔗 Competitive Programming
 
 ---
 
