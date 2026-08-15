@@ -3,7 +3,7 @@
 
 ### Olá, eu sou o Nean (José Henrique)! 👋
 
-🎓 Estudante de **Engenharia da Computação** na UFBA. 🚀 Co-Fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e atuante na estruturação técnica de eventos acadêmicos (como o BaIA Hackathon). 💻 Focado em **Engenharia de Dados**, **Análise de Dados** e construção de pipelines escaláveis em Cloud.
+🎓 Estudante de **Ciência da Computação** na UFBA. 🚀 Co-Fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e membro da **InfoJúnior**, atuando com People Analytics. 💻 Focado em **Engenharia de Dados**, **Ciência de Dados** e **Machine Learning/IA**, com prática em construção de pipelines escaláveis em Cloud.
 
 ### 🛠️ Tech Stack & Ferramentas
 
