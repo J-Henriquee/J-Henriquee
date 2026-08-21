@@ -1,7 +1,7 @@
 <p align="center"><em>"Own it."</em></p>
 <hr>
 
-### Olá, eu sou o Neean (José Henrique)! 👋
+### Olá, eu sou o Nean (José Henrique)! 👋
 
 🎓 Estudante de **Ciência da Computação** na UFBA. 🚀 Co-Fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e membro da **InfoJr**, atuando com People Analytics. 💻 Focado em **Engenharia de Dados**, **Ciência de Dados** e **Machine Learning/IA**, com prática em construção de pipelines escaláveis em Cloud.
 
