@@ -25,7 +25,7 @@ Co-fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e membro da **Inf
 
 ## Algoritmos
 
-Programação competitiva em C++ (CS50, Beecrowd, USACO). Uso essa base para escrever código eficiente em qualquer área.
+Programação competitiva em C++ (CS50, Beecrowd, USACO).
 
 ## Estudando agora
 
