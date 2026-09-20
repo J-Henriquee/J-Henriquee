@@ -6,7 +6,7 @@
 ## Sobre mim
 
 - 🎓 Estudante de Ciência da Computação na UFBA
-- 🤝 Co-fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e membro da **InfoJr**, atuando com People Analytics
+- 🤝 Co-fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e membro da **InfoJr**, atuando com  Automação em JavaScript
 - ☁️ Construí pipelines de dados na AWS (S3, Glue, Redshift Serverless) com Docker
 - ⚡ Programação competitiva em C++ (CS50, Beecrowd, USACO)
 - 🌱 Estudando agora: FastAPI, LLMs e RAG, Airflow
