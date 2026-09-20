@@ -1,35 +1,43 @@
-<p align="center"><em>"Own it."</em></p>
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header" width="100%" alt="" />
 
-### Olá, eu sou o Nean (José Henrique)! 👋
+# José Henrique (Nean)
 
-🎓 Estudante de **Ciência da Computação** na UFBA. 🚀 Co-Fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e membro da **InfoJr**, atuando com People Analytics. 💻 Focado em **Engenharia de Dados** e **Machine Learning/IA**, com prática em construção de pipelines escaláveis em Cloud.
+Estudante de Ciência da Computação na UFBA. Desenvolvo em Python e C++, com foco em software, dados e IA.
+Co-fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e membro da **InfoJr**, atuando com People Analytics.
 
-### 🛠️ Tech Stack & Ferramentas
+## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Categoria | Ferramentas |
+|---|---|
+| **Linguagens** | <img src="https://skillicons.dev/icons?i=py,cpp,c,bash&theme=dark" /><br>Python, C++, C, SQL, Bash |
+| **Dados** | <img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" /><br>Pandas, PySpark, ETL/ELT, AWS Glue, boto3 |
+| **Bancos e modelagem** | <img src="https://skillicons.dev/icons?i=postgres&theme=dark" /><br>PostgreSQL, Amazon Redshift Serverless, modelagem dimensional |
+| **Cloud e infra** | <img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" /><br>AWS (S3, EC2, IAM), Docker, Linux, Cron |
+| **IA** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /><br>Machine Learning, LLMs e RAG (em estudo) |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /><br>Git, GitHub |
 
----
+## Projetos em destaque
 
-### 📌 Portfólio em Destaque
+- **[Pipeline Crypto](https://github.com/J-Henriquee/Data-Engineering-Portfolio/tree/main/04_pipeline_crypto)**: extração containerizada via API, arquitetura medalhão na AWS (S3, Glue, Redshift Serverless) e modelo dimensional.
+- **[E-commerce Olist](https://github.com/J-Henriquee/pipeline-olist)**: Data Lakehouse na AWS com processamento em PySpark e star schema no Redshift Serverless.
+- **[Pipeline Copa do Mundo](https://github.com/J-Henriquee/pipeline-copa)**: ETL com Pandas e PostgreSQL, constraints relacionais e carga automatizada.
+- **[Portfólio completo](https://github.com/J-Henriquee/Data-Engineering-Portfolio)**: todos os pipelines em um só repositório.
 
-🔗 **Data Engineering Portfolio**: Meu repositório central com projetos práticos focados em todo o ciclo de vida do dado.
+## Algoritmos
 
-* 🛒 **[E-commerce Olist AWS Pipeline](https://github.com/J-Henriquee/pipeline-olist):** Construção de um Data Lakehouse na nuvem. Ingestão de dados brutos no Amazon S3 via `boto3`, processamento distribuído da camada Bronze para Silver utilizando **PySpark**, e modelagem dimensional (Star Schema) na camada Gold usando comandos SQL nativos no **Amazon Redshift Serverless**.
+Programação competitiva em C++ (CS50, Beecrowd, USACO). Uso essa base para escrever código eficiente em qualquer área.
 
-* ⚽ **[Pipeline Copa do Mundo: Modelagem e ETL](https://github.com/J-Henriquee/pipeline-copa):** Pipeline ETL estruturado com constraints relacionais no PostgreSQL. Foco em modelagem Star Schema, limpeza de dados com Pandas, tratamento rigoroso de violações de chaves (Unique/NotNull) e carga automatizada no banco de dados.
+## Estudando agora
 
-### 🧠 Algoritmos & Lógica Avançada
+FastAPI, LLMs e RAG, Airflow.
 
-⚡ **Programação Competitiva:** Foco em C/C++ e resolução de problemas complexos (formação CS50, Beecrowd, USACO). Uso essa base sólida de algoritmos estruturados para garantir eficiência no processamento e performance em grandes volumes de dados. 🔗 Competitive Programming
+## Estatísticas
 
----
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=J-Henriquee&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Henriquee&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Contato: LinkedIn
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/SEU-PERFIL)
