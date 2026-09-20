@@ -40,6 +40,15 @@
 - **[Pipeline Copa do Mundo](https://github.com/J-Henriquee/pipeline-copa)**: ETL com Pandas e PostgreSQL, constraints relacionais e carga automatizada.
 - **[Portfólio completo](https://github.com/J-Henriquee/Data-Engineering-Portfolio)**: todos os pipelines em um só repositório.
 
+- <p align="center">
+  <a href="https://github.com/J-Henriquee/Data-Engineering-Portfolio">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=J-Henriquee&repo=Data-Engineering-Portfolio&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/J-Henriquee/pipeline-olist">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=J-Henriquee&repo=pipeline-olist&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
 ## Estatísticas
 
 <p align="center">
