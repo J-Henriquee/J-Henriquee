@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header" width="100%" alt="" />
 
 <h1 align="center">José Henrique (Nean)</h1>
-<p align="center">Python | C++ | Dados & IA</p>
+<p align="center">Python | C++ | Backend & IA</p>
 
 ## Sobre mim
 
