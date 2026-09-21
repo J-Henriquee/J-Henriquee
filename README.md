@@ -23,7 +23,7 @@
 | **Cloud e infra** | <img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" /><br>AWS (S3, EC2, IAM), Docker, Linux, Cron |
 | **IA** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /><br>Machine Learning, LLMs e RAG (em estudo) |
 | **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /><br>Git, GitHub |
-| **APIs e integração** | Python, requests, REST (consumo de APIs), retry com backoff, boto3, SQLAlchemy, psycopg2 |
+| **APIs e integração** | Python, requests, REST (consumo de APIs), retry com backoff, boto3, SQLAlchemy|
 
 ## Em estudo
 
