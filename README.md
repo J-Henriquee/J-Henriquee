@@ -9,7 +9,7 @@
 - 🤝 Co-fundador da **LIAO** (Liga Acadêmica de IA e Otimização) e membro da **InfoJr**, atuando com  Automação em JavaScript
 - ☁️ Construí pipelines de dados na AWS (S3, Glue, Redshift Serverless) com Docker
 - ⚡ Programação competitiva em C++ (CS50, Beecrowd, USACO)
-- 🌱 Estudando agora: FastAPI, LLMs e RAG, Airflow
+- 🌱 Estudando agora: FastAPI, LLMs e RAG
 - 💬 Pergunte-me sobre: Python, SQL, AWS e algoritmos
 - 🎯 Buscando estágio ou vaga júnior em desenvolvimento Python, backend, dados ou IA
 
