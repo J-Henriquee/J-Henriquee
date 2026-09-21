@@ -31,7 +31,6 @@
 |---|---|
 | **Backend** | FastAPI, autenticação, testes, deploy de APIs |
 | **IA** | LLMs, embeddings, RAG, LangChain |
-| **Orquestração** | Airflow |
 
 ## Projetos em destaque
 
