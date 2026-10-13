@@ -10,7 +10,7 @@
 - ☁️ Construí pipelines de dados na AWS (S3, Glue, Redshift Serverless) com Docker
 - ⚡ Programação competitiva em C++ (CS50, Beecrowd, USACO)
 - 🌱 Estudando agora: FastAPI, LLMs e RAG
-- 💬 Pergunte-me sobre: Python, SQL, AWS e algoritmos
+- 💬 Pergunte-me sobre: Python, AWS e algoritmos
 - 🎯 Buscando estágio ou vaga júnior em desenvolvimento Python, backend, dados ou IA
 
 ## Stack
